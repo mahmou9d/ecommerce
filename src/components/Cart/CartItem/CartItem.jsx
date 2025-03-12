@@ -2,7 +2,7 @@
 import { MdClose } from "react-icons/md"
 import "./CartItem.scss"
 import { useEffect, useState } from "react"
-import "../cart.scss";
+import "./cart.scss";
 import { Link } from "react-router-dom";
 // eslint-disable-next-line react/prop-types, no-unused-vars
 function CartItem({setCart}) {
